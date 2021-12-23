@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=opencvtest
+NoDisplay=true
+Exec=/home/pi/opencvtest/opencvtest.sh
+
