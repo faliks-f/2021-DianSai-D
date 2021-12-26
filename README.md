@@ -42,3 +42,5 @@ python版本：python3.6及以上
 #### 开机自启动配置
 在/home/pi/.config/autostart(如果没有该目录就创建它)，将本仓库中raspberry/opencvtest.desktop复制进去，
 该文件中Exec=/home/pi/opencvtest/opencvtest.sh表示需要执行的shell脚本的路径，编写一个shell脚本启动程序就可以了
+
+## Nano终端
