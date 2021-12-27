@@ -46,6 +46,15 @@ python版本：python3.6及以上
 ## Nano终端
 Nano终端负责接收图像显示、激光笔识别和测量相关  
 
+#### 依赖的库
+依赖的库比较少，就不提供requirements.txt了  
+python版本：3.6及以上  
+* numpy
+* opencv_python  
+* opencv_contrib_python
+* imutils
+* pyserial
+
 #### 识别方法
 激光笔为黑色激光笔，实际场景中在视野里没有比激光笔更大的黑色色块，
 所以只需要先去除掉面积过大的黑色色块，再选取剩下的色块中面积最大的，
