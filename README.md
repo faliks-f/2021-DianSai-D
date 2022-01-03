@@ -1,4 +1,5 @@
-# 2021电赛D题方案（更新中）
+# 2021电赛D题方案
+作品演示看[这里](https://www.bilibili.com/video/BV1K3411x7Ta)
 
 ## 文件夹构成
 raspberry: 摄像节点A和B代码和配置文件，使用同一套代码，只有IP配置不同
